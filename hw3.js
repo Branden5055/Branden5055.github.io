@@ -235,7 +235,7 @@ function checkAddress1() {
     console.log(x);
     console.log(x.length);
     if (x.length < 2) {
-        document.getElementById("addressOneMessage").innerHTML = "Enter at least four characters on Address Line 1";
+        document.getElementById("addressOneMessage").innerHTML = "Enter at least two characters on Address Line 1";
         error_flag = 1;
         console.log(error_flag);
     }
