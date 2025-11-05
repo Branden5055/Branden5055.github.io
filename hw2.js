@@ -1,9 +1,9 @@
  /* 
  Name: Branden Brar
- File: hw2.js
+ File: hw3.js
  Date Created: 2025-10-12
  Date Updated: 2025-10-25
- Purpose: JavaScript for Homework 2 
+ Purpose: JavaScript for Homework 3 
 
 */
 
